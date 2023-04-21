@@ -1,4 +1,4 @@
-<h1 align="center">Rspec Project</h1>
+<h1 align="center">RSpec Project</h1>
 
 <p align="center">🚀 Testing a CRUD with RSpec</p>
 
